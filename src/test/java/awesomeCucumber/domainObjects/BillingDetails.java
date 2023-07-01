@@ -1,5 +1,8 @@
 package awesomeCucumber.domainObjects;
 
+/**
+ * 
+ */
 public class BillingDetails {
 
     public BillingDetails(String firstName, String lastName, String country,
